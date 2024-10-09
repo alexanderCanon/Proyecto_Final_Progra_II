@@ -9,4 +9,7 @@ public class ProyectoFinalV1 {
         System.out.println("Otro co");
     }
     
+    public void Agregar(){
+
+    }
 }
